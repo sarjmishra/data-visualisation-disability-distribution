@@ -58,7 +58,7 @@ This analysis provides a comprehensive look at the disabled population in India,
 - `Disabled Population Overview.png`
 - `UDID Issuance.png`
 - `README.md` 
-\
+
 ## How to View
 1. Clone or download the repository.
 2. Open the `Disability_Distribution.twbx` file in Tableau Desktop or Tableau Public.
@@ -66,4 +66,4 @@ This analysis provides a comprehensive look at the disabled population in India,
 
 ## Contact
 For any questions or further discussion on the findings, feel free to reach out!
-}
+
