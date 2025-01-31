@@ -54,14 +54,13 @@ The data operations performed on the datasets include:
 This analysis provides a comprehensive look at the disabled population in India, focusing on key areas such as disability categories, education, employment, gender, and age group distributions. The findings highlight areas that require immediate attention, such as improving the rate of UDID issuance and addressing gender disparities in education.
 
 ## Files
-- `Disability_Distribution.twbx`
 - `Disabled Population Overview.png`
 - `UDID Issuance.png`
 - `README.md` 
 
 ## How to View
-1. Clone or download the repository.
-2. Open the `Disability_Distribution.twbx` file in Tableau Desktop or Tableau Public.
+1. Go to Tableau public
+2. https://public.tableau.com/app/profile/sarjana.mishra/viz/DisabilityDistributionacrossIndia/DisabledPopulationEducationandWorkingStatus
 3. Explore the interactive dashboard to visualise the findings.
 
 ## Contact
